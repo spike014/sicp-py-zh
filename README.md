@@ -4,15 +4,23 @@
 
 译者：[飞龙](https://github.com/wizardforcel)
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/sicp-py/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sicp-py)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sicp-py)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-py)
-+ [Github](https://github.com/wizardforcel/sicp-py-zh)
+原翻译仓库：[sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
 
-## 赞助我
+## 起因：
 
-![](img/qr_alipay.png)
+`GitBook` 改版，导致原译者的在线阅读链接失效。
+
+原译者在 [sicp-py-zh/issues/16](https://github.com/wizardforcel/sicp-py-zh/issues/16) 中提到不再进行修复。
+
+因此，我在遵循 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 协议的情况下，
+
+使用 `docsify` 和 `github.io` 的方式进行部署，提供在线阅读，原翻译内容在 `fork` 后未做修改，但是欢迎矫正 `PR`。
+
+再次感谢译者[飞龙](https://github.com/wizardforcel)。
+
+在线阅读：
+
+- https://spike014.github.io/sicp-py-zh
 
 ## 协议
 
