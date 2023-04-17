@@ -16,6 +16,8 @@
 
 使用 `docsify` 和 `github.io` 的方式进行部署，提供在线阅读，原翻译内容在 `fork` 后未做修改，但是欢迎校正 `PR`。
 
+本仓库：[spike014/sicp-py-zh](https://github.com/spike014/sicp-py-zh)
+
 再次感谢译者[飞龙](https://github.com/wizardforcel)。
 
 在线阅读：
