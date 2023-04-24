@@ -6,6 +6,8 @@
 
 原翻译仓库：[sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
 
+## 这个版本已经是 CS61A Spring 2012 的教材了，现在有更新的教材 http://composingprograms.com/ （推荐），翻译版本： [composing-programs-zh](https://composingprograms.netlify.app/)，截止目前用于 CS61A Spring 2023。
+
 ## 起因：
 
 `GitBook` 改版，导致原译者的在线阅读链接失效。
